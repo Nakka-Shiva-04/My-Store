@@ -1,0 +1,30 @@
+.formc
+{
+    top:20%;
+    left:35%;
+    position:absolute;
+    box-shadow:0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+    width:500px;
+    height:500px;
+    border-radius:10px;
+}
+.lcenter
+{
+    top:42%;
+    left:27%;
+    position:absolute;
+}
+a
+{
+    color:blue;
+    text-decoration:none;
+}
+.bstyle
+{
+    background-color:blue;
+    color:white;
+    border-radius:3px;
+    border:none;
+    font-size:15px;
+    padding:5px;
+}

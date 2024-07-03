@@ -1,0 +1,38 @@
+.elementsb
+{
+    width:500px;
+    height:500px;
+    box-shadow:0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+    border-radius:10px;
+    top:20%;
+    left:33%;
+    position:absolute;
+}
+.elements
+{
+    width:400px;
+    height:400px;
+    top:35%;
+    position:absolute;
+}
+.labelp
+{
+    left:22%;
+    position:absolute;
+}
+.inputp
+{
+    left:58%;
+    position:absolute;
+}
+.buttons
+{
+    left:50%;
+    position:absolute;
+    background-color:blue;
+    color:white;
+    border:none;
+    border-radius:3px;
+    font-size:15px;
+    padding:5px;
+}

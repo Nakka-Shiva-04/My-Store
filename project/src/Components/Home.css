@@ -1,0 +1,34 @@
+.loginbs
+{
+    top:5%;
+    left:85%;
+    position:absolute;
+    border-color:blue;
+    background-color:white;
+    font-size:17px;
+    padding:5px;
+    border-radius:3px;
+}
+.signupbs
+{
+    top:5%;
+    left:89%;
+    position:absolute;
+    border:none;
+    background-color:blue;
+    font-size:17px;
+    padding:5px;
+    border-radius:3px;
+}
+.loginbc
+{
+    color:blue;
+}
+.signupbc
+{
+    color:white;
+}
+.productss
+{
+    color:black;
+}
